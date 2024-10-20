@@ -22,8 +22,8 @@ I created a Power BI dashboard that includes:
 - **Sales Trends**: Line chart showing how sales have changed over time.
 - **Top Products**: Bar chart highlighting the best-selling products.
 - **Country wise Sales**: Map visualization showing sales performance by region.
-- **Slicers and Bookmarks: Created slicers for year wise reports and created bookmarks for easy access to filtered datas.
-- **Navigation Buttons: Created buttons for navigating through pages.
+- Slicers and Bookmarks: Created slicers for year wise reports and created bookmarks for easy access to filtered datas.
+- Navigation Buttons: Created buttons for navigating through pages.
 
   
 ## Key Learnings
